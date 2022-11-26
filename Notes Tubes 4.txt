@@ -1,0 +1,11 @@
+pip install pandas
+pip install matplotlib
+pip install scipy
+pip install numpy
+pip install openpyxl = buat export ke .xls
+pip install seaborn
+pip3 install -U scikit-learn scipy matplotlib
+
+
+pip install -r requirements.txt = buat install semua yang dibutuhin buat project
+
