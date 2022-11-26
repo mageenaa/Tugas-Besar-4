@@ -9,3 +9,10 @@ pip3 install -U scikit-learn scipy matplotlib
 
 pip install -r requirements.txt = buat install semua yang dibutuhin buat project
 
+Cara bikin branch baru : 
+    1. git checkout -b your_branch
+    2. git push origin your_branch
+
+Cara cek kita sedang berada di branch mana & cara pindah branch :
+    1. git branch
+    2. git checkout your_branch
